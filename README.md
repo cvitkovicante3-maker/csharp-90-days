@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Days_Completed-1/90-blue)
+![Progress](https://img.shields.io/badge/Days_Completed-2/90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -33,7 +33,7 @@ Each day contains:
 
 ### Week 1: Your First Lines
 - [x] Day 1: Hello Console
-- [ ] Day 2: Understanding Statements
+- [x] Day 2: Understanding Statements
 - [ ] Day 3: Variables
 - [ ] Day 4: Variable Initialization
 - [ ] Day 5: Changing Variables
