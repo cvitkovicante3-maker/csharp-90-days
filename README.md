@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Days_Completed-10/90-blue)
+![Progress](https://img.shields.io/badge/Days_Completed-11/90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -44,7 +44,7 @@ Each day contains:
 - [x] Day 8: String Concatenation
 - [x] Day 9: String Interpolation
 - [x] Day 10: Reading User Input
-- [ ] Day 11: Converting String to Number
+- [x] Day 11: Converting String to Number
 - [ ] Day 12: Constants
 - [ ] Day 13: Multiple Variables
 - [ ] Day 14: Variable Naming Rules
