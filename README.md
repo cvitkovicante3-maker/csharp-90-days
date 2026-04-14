@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Days_Completed-15/90-blue)
+![Progress](https://img.shields.io/badge/Days_Completed-16/90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -49,6 +49,7 @@ Each day contains:
 - [x] Day 13: Multiple Variables
 - [x] Day 14: Variable Naming Rules
 - [x] Day 15: Comparison Operators
+- [x] Day 16: Boolean Variables
 
 *[Continue for all 90 days...]*
 
