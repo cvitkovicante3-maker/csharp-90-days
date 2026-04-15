@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Days_Completed-16/90-blue)
+![Progress](https://img.shields.io/badge/Days_Completed-17/90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -48,8 +48,15 @@ Each day contains:
 - [x] Day 12: Constants
 - [x] Day 13: Multiple Variables
 - [x] Day 14: Variable Naming Rules
+
+### Week 3: Comparisons & Logic (Days 15-21)
 - [x] Day 15: Comparison Operators
 - [x] Day 16: Boolean Variables
+- [x] Day 17: If Statements
+- [ ] Day 18: If-Else
+- [ ] Day 19: Else-If Chains
+- [ ] Day 20: Logical AND (&&)
+- [ ] Day 21: Logical OR (||)
 
 *[Continue for all 90 days...]*
 
