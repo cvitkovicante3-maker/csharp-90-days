@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Days_Completed-20/90-blue)
+![Progress](https://img.shields.io/badge/Days_Completed-21/90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -56,7 +56,7 @@ Each day contains:
 - [x] Day 18: If-Else
 - [x] Day 19: Else-If Chains
 - [x] Day 20: Logical AND (&&)
-- [ ] Day 21: Logical OR (||)
+- [x] Day 21: Logical OR (||)
 
 *[Continue for all 90 days...]*
 
