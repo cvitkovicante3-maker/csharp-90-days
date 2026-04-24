@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Days_Completed-24/90-blue)
+![Progress](https://img.shields.io/badge/Progress-25%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -62,7 +62,7 @@ Each day contains:
 - [x] Day 22: Switch Statements
 - [x] Day 23: Combining Logic
 - [x] Day 24: NOT Operator (!)
-- [ ] Day 25: Nested If Statements
+- [x] Day 25: Nested If Statements
 - [ ] Day 26: Ternary Operator
 - [ ] Day 27: Boolean Logic Review
 - [ ] Day 28: Debugging Logic
