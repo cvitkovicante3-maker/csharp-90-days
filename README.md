@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-28%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-29%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -67,6 +67,15 @@ Each day contains:
 - [x] Day 27: Boolean Logic Review
 - [x] Day 28: Debugging Logic
 
+### Week 5: Loops (Days 29-35)
+- [x] Day 29: While Loops
+- [ ] Day 30: Do-While Loops
+- [ ] Day 31: For Loops
+- [ ] Day 32: Loop Control (break/continue)
+- [ ] Day 33: Nested Loops
+- [ ] Day 34: Looping Through Strings
+- [ ] Day 35: Loop Practice
+
 *[Continue for all 90 days...]*
 
 ## 🛠️ Tools Used
@@ -83,6 +92,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** April 27, 2026
+**Last Updated:** April 28, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
