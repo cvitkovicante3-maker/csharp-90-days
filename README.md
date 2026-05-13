@@ -76,6 +76,85 @@ Each day contains:
 - [x] Day 34: Looping Through Strings
 - [x] Day 35: Loop Practice
 
+### Week 6: Arrays & Collections
+
+- [ ] Day 36: Intro to Arrays
+- [ ] Day 37: Array Indexing
+- [ ] Day 38: Looping Through Arrays
+- [ ] Day 39: Array Methods
+- [ ] Day 40: Multidimensional Arrays
+- [ ] Day 41: Lists
+- [ ] Day 42: List Methods
+
+### Week 7: Methods & Functions
+
+- [ ] Day 43: Void Methods
+- [ ] Day 44: Methods with Parameters
+- [ ] Day 45: Return Values
+- [ ] Day 46: Method Overloading
+- [ ] Day 47: Optional Parameters
+- [ ] Day 48: Ref and Out
+- [ ] Day 49: Method Practice
+
+### Week 8: OOP Basics
+
+- [ ] Day 50: Classes & Objects
+- [ ] Day 51: Fields & Properties
+- [ ] Day 52: Constructors
+- [ ] Day 53: Access Modifiers
+- [ ] Day 54: Static Members
+- [ ] Day 55: Encapsulation
+- [ ] Day 56: Inheritance
+
+### Week 9: OOP Advanced
+
+- [ ] Day 57: Polymorphism
+- [ ] Day 58: Method Overriding
+- [ ] Day 59: Abstract Classes
+- [ ] Day 60: Interfaces
+- [ ] Day 61: Inheritance Chains
+- [ ] Day 62: Composition vs Inheritance
+- [ ] Day 63: OOP Review
+
+### Week 10: OOP Practice
+
+- [ ] Day 64: Designing a Player Class
+- [ ] Day 65: Enemy Class Hierarchy
+- [ ] Day 66: Inventory System
+- [ ] Day 67: Game Manager Class
+- [ ] Day 68: Event System
+- [ ] Day 69: OOP Mini Project
+- [ ] Day 70: Code Review & Refactor
+
+### Week 11: Game Architecture
+
+- [ ] Day 71: Game Loop Pattern
+- [ ] Day 72: State Machines
+- [ ] Day 73: Component-Based Design
+- [ ] Day 74: Observer Pattern
+- [ ] Day 75: Singleton Pattern
+- [ ] Day 76: Factory Pattern
+- [ ] Day 77: Command Pattern
+
+### Week 12: Unity Prep
+
+- [ ] Day 78: Unity Editor Basics
+- [ ] Day 79: MonoBehaviour Lifecycle
+- [ ] Day 80: Transforms & Vectors
+- [ ] Day 81: Input Handling
+- [ ] Day 82: Physics & Collisions
+- [ ] Day 83: Prefabs & Instantiation
+- [ ] Day 84: Scenes & Loading
+
+### Week 13: Unity Scripting
+
+- [ ] Day 85: Player Movement
+- [ ] Day 86: Camera Follow
+- [ ] Day 87: Shooting Projectiles
+- [ ] Day 88: Health & Damage
+- [ ] Day 89: UI & Score
+- [ ] Day 90: Final Project
+
 *[Continue for all 90 days...]*
 
 ## 🛠️ Tools Used
