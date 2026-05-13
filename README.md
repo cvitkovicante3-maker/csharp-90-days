@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-34%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-35%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -74,7 +74,7 @@ Each day contains:
 - [x] Day 32: Loop Control (break/continue)
 - [x] Day 33: Nested Loops
 - [x] Day 34: Looping Through Strings
-- [ ] Day 35: Loop Practice
+- [x] Day 35: Loop Practice
 
 *[Continue for all 90 days...]*
 
@@ -92,6 +92,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** May 5, 2026
+**Last Updated:** May 13, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
