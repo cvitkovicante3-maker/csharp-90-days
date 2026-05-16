@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-37%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-38%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -80,7 +80,7 @@ Each day contains:
 
 - [x] Day 36: Intro to Arrays
 - [x] Day 37: Array Indexing
-- [ ] Day 38: Looping Through Arrays
+- [x] Day 38: Looping Through Arrays
 - [ ] Day 39: Array Methods
 - [ ] Day 40: Multidimensional Arrays
 - [ ] Day 41: Lists
@@ -171,6 +171,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** May 15, 2026
+**Last Updated:** May 16, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
