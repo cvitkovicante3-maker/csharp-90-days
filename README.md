@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-41%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-42%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -84,7 +84,7 @@ Each day contains:
 - [x] Day 39: Array Methods
 - [x] Day 40: Multidimensional Arrays
 - [x] Day 41: Lists
-- [ ] Day 42: List Methods
+- [x] Day 42: List Methods
 
 ### Week 7: Methods & Functions
 
@@ -171,6 +171,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** May 21, 2026
+**Last Updated:** May 26, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
