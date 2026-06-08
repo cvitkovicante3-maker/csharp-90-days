@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-42%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-43%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -88,7 +88,7 @@ Each day contains:
 
 ### Week 7: Methods & Functions
 
-- [ ] Day 43: Void Methods
+- [x] Day 43: Void Methods
 - [ ] Day 44: Methods with Parameters
 - [ ] Day 45: Return Values
 - [ ] Day 46: Method Overloading
@@ -155,7 +155,6 @@ Each day contains:
 - [ ] Day 89: UI & Score
 - [ ] Day 90: Final Project
 
-*[Continue for all 90 days...]*
 
 ## 🛠️ Tools Used
 - **IDE:** Visual Studio Community 2022
@@ -171,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** May 26, 2026
+**Last Updated:** June 8, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
