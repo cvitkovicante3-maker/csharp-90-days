@@ -15,8 +15,8 @@
 
 | Phase | Days | Topics | Status |
 |-------|------|--------|--------|
-| **Phase 1** | 1-45 | C# Fundamentals | 🟡 In Progress |
-| **Phase 2** | 46-75 | Object-Oriented Programming | ⚪ Pending |
+| **Phase 1** | 1-45 | C# Fundamentals | ✅ Complete |
+| **Phase 2** | 46-75 | Object-Oriented Programming | 🟡 In Progress |
 | **Phase 3** | 76-90 | Game Architecture & Unity Prep | ⚪ Pending |
 
 ## 📁 Repository Structure
