@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-46%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-47%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -92,7 +92,7 @@ Each day contains:
 - [x] Day 44: Methods with Parameters
 - [x] Day 45: Return Values
 - [x] Day 46: Method Overloading
-- [ ] Day 47: Optional Parameters
+- [x] Day 47: Optional Parameters
 - [ ] Day 48: Ref and Out
 - [ ] Day 49: Method Practice
 
@@ -170,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** June 14, 2026
+**Last Updated:** June 15, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
