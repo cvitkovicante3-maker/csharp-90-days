@@ -6,7 +6,7 @@
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
 
 ## 👤 About Me
-- 🎯 Aspiring Game Developer
+- 🎯 Aspiring 3D Game Developer
 - 🕹️ Interested in: 3D virtual spaces, gameplay programming
 - 📅 Started: March 30, 2026
 - 🔗 Connect with me on [LinkedIn](www.linkedin.com/in/ante-cvitković-mba-b80073179)
