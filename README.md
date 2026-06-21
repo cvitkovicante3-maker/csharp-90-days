@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-50%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-51%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -99,7 +99,7 @@ Each day contains:
 ### Week 8: OOP Basics (Days 50-56)
 
 - [x] Day 50: Classes & Objects
-- [ ] Day 51: Fields & Properties
+- [x] Day 51: Fields & Properties
 - [ ] Day 52: Constructors
 - [ ] Day 53: Access Modifiers
 - [ ] Day 54: Static Members
@@ -170,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** June 20, 2026
+**Last Updated:** June 21, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
