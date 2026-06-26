@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-53%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-54%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -102,7 +102,7 @@ Each day contains:
 - [x] Day 51: Fields & Properties
 - [x] Day 52: Constructors
 - [x] Day 53: Access Modifiers
-- [ ] Day 54: Static Members
+- [x] Day 54: Static Members
 - [ ] Day 55: Encapsulation
 - [ ] Day 56: Inheritance
 
@@ -170,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** June 23, 2026
+**Last Updated:** June 26, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
