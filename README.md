@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-60%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-61%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -112,7 +112,7 @@ Each day contains:
 - [x] Day 58: Method Overriding
 - [x] Day 59: Abstract Classes
 - [x] Day 60: Interfaces
-- [ ] Day 61: Inheritance Chains
+- [x] Day 61: Inheritance Chains
 - [ ] Day 62: Composition vs Inheritance
 - [ ] Day 63: OOP Review
 
@@ -170,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** July 4, 2026
+**Last Updated:** July 5, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
