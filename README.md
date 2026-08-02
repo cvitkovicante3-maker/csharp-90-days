@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-67%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-68%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -122,7 +122,7 @@ Each day contains:
 - [x] Day 65: Enemy Class Hierarchy
 - [x] Day 66: Inventory System
 - [x] Day 67: Game Manager Class
-- [ ] Day 68: Event System
+- [x] Day 68: Event System
 - [ ] Day 69: OOP Mini Project
 - [ ] Day 70: Code Review & Refactor
 
@@ -170,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** July 23, 2026
+**Last Updated:** August 2, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
