@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-74%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-75%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -16,8 +16,8 @@
 | Phase | Days | Topics | Status |
 |-------|------|--------|--------|
 | **Phase 1** | 1-45 | C# Fundamentals | ✅ Complete |
-| **Phase 2** | 46-75 | Object-Oriented Programming | 🟡 In Progress |
-| **Phase 3** | 76-90 | Game Architecture & Unity Prep | ⚪ Pending |
+| **Phase 2** | 46-75 | Object-Oriented Programming | ✅ Complete |
+| **Phase 3** | 76-90 | Game Architecture & Unity Prep | 🟡 In Progress |
 
 ## 📁 Repository Structure
 
@@ -132,7 +132,7 @@ Each day contains:
 - [x] Day 72: State Machines
 - [x] Day 73: Component-Based Design
 - [x] Day 74: Observer Pattern
-- [ ] Day 75: Singleton Pattern
+- [x] Day 75: Singleton Pattern
 - [ ] Day 76: Factory Pattern
 - [ ] Day 77: Command Pattern
 
@@ -170,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** August 14, 2026
+**Last Updated:** August 16, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
