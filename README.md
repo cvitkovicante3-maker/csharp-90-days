@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-77%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-78%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -49,7 +49,7 @@ Each day contains:
 - [x] Day 13: Multiple Variables
 - [x] Day 14: Variable Naming Rules
 
-### Week 3: Comparisons & Logic (Days 15-21)
+### Week 3: Comparisons & Logic
 - [x] Day 15: Comparison Operators
 - [x] Day 16: Boolean Variables
 - [x] Day 17: If Statements
@@ -58,7 +58,7 @@ Each day contains:
 - [x] Day 20: Logical AND (&&)
 - [x] Day 21: Logical OR (||)
 
-### Week 4: Switch & Advanced Logic (Days 22-28)
+### Week 4: Switch & Advanced Logic
 - [x] Day 22: Switch Statements
 - [x] Day 23: Combining Logic
 - [x] Day 24: NOT Operator (!)
@@ -67,7 +67,7 @@ Each day contains:
 - [x] Day 27: Boolean Logic Review
 - [x] Day 28: Debugging Logic
 
-### Week 5: Loops (Days 29-35)
+### Week 5: Loops
 - [x] Day 29: While Loops
 - [x] Day 30: Do-While Loops
 - [x] Day 31: For Loops
@@ -96,7 +96,7 @@ Each day contains:
 - [x] Day 48: Ref and Out
 - [x] Day 49: Method Practice
 
-### Week 8: OOP Basics (Days 50-56)
+### Week 8: OOP Basics
 
 - [x] Day 50: Classes & Objects
 - [x] Day 51: Fields & Properties
@@ -138,7 +138,7 @@ Each day contains:
 
 ### Week 12: Unity Prep
 
-- [ ] Day 78: Unity Editor Basics
+- [x] Day 78: Unity Editor Basics
 - [ ] Day 79: MonoBehaviour Lifecycle
 - [ ] Day 80: Transforms & Vectors
 - [ ] Day 81: Input Handling
@@ -170,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** August 18, 2026
+**Last Updated:** August 20, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
