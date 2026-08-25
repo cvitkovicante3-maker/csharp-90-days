@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-82%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-83%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -143,7 +143,7 @@ Each day contains:
 - [x] Day 80: Transforms & Vectors
 - [x] Day 81: Input Handling
 - [x] Day 82: Physics & Collisions
-- [ ] Day 83: Prefabs & Instantiation
+- [x] Day 83: Prefabs & Instantiation
 - [ ] Day 84: Scenes & Loading
 
 ### Week 13: Unity Scripting
@@ -170,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** August 24, 2026
+**Last Updated:** August 25, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
