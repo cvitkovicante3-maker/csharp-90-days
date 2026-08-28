@@ -1,6 +1,6 @@
 # 🎮 90-Day C# Game Development Mastery
 
-![Progress](https://img.shields.io/badge/Progress-85%2F90-blue)
+![Progress](https://img.shields.io/badge/Progress-86%2F90-blue)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
@@ -149,7 +149,7 @@ Each day contains:
 ### Week 13: Unity Scripting
 
 - [x] Day 85: Player Movement
-- [ ] Day 86: Camera Follow
+- [x] Day 86: Camera Follow
 - [ ] Day 87: Shooting Projectiles
 - [ ] Day 88: Health & Damage
 - [ ] Day 89: UI & Score
@@ -170,6 +170,6 @@ By Day 90, I will:
 
 ---
 
-**Last Updated:** August 27, 2026
+**Last Updated:** August 28, 2026
 
 *This repository documents my commitment to learning. Every commit represents 20 minutes of focused practice.*
