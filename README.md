@@ -1,7 +1,7 @@
 # 🎮 90-Day C# Game Development Mastery
 
 ![Progress](https://img.shields.io/badge/Progress-90%2F90-green)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 &gt; **Goal:** Go from absolute beginner to Unity-ready C# developer through daily structured practice.
 
